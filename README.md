@@ -9,7 +9,7 @@
 
 SQL Solutions coded w/MySQL
 
-#SQL 
+# SQL 
 
 |Subtopic|Challenge|Points|Solution|
 |:------:|:-------:|:----:|:-------|
