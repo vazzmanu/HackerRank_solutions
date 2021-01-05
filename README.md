@@ -14,4 +14,4 @@ SQL Solutions coded w/MySQL
 |Subtopic|Challenge|Points|Solution|
 |:------:|:-------:|:----:|:-------|
 |Basic Select   |[Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem)        |5|[Solution](https://github.com/vazzmanu/HackerRank_solutions/blob/main/SQL/Basic%20Select/1_Revising%20the%20Select%20Query.sql)|
-|Basic Select   |[Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem)     |5|[Solution](https://www.hackerrank.com/challenges/revising-the-select-query-2/submissions/code/194226051)|
+|Basic Select   |[Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem)     |5|[Solution](https://github.com/vazzmanu/HackerRank_solutions/blob/main/SQL/Basic%20Select/2_Revising%20the%20Select%20Query%20II.sql)|
