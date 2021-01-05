@@ -1,0 +1,4 @@
+--github.com/vazzmanu
+
+SELECT COUNT(CITY)-COUNT(DISTINCT CITY)
+    FROM STATION
