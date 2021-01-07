@@ -1,4 +1,4 @@
 --github.com/vazzmanu
 
 SELECT *
-    FROM CITY
+    FROM city
