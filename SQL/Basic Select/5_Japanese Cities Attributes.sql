@@ -1,5 +1,5 @@
 --github.com/vazzmanu
 
 SELECT *
-    FROM CITY
-    WHERE COUNTRYCODE = 'JPN'
+    FROM city
+    WHERE countrycode = 'JPN'
