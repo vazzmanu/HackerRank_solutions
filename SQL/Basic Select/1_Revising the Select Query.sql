@@ -1,6 +1,6 @@
 --github.com/vazzmanu
 
 SELECT *
-    FROM CITY
-    WHERE POPULATION > 100000 
-    AND COUNTRYCODE = 'USA'
+    FROM city
+    WHERE population > 100000 
+    AND countrycode = 'USA'
